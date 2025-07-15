@@ -1,12 +1,8 @@
 <?php
 
-use App\Http\Controllers\CentralController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\UserController;
-use App\Http\Controllers\DistrictController;
-use App\Http\Controllers\MaterialRegionController;
 use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\RegionController;
 use Illuminate\Support\Facades\Route;
 
 

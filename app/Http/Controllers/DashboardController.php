@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\MaterialRegion;
 use App\Models\MaterialSource;
 use Illuminate\Http\Request;
 use App\Models\User;
